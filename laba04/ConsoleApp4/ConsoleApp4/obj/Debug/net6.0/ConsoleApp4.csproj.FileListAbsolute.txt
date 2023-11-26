@@ -1,0 +1,15 @@
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\MyStudy\2КУРС2СЕМЕСТР\ПП\laba04\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll

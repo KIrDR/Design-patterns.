@@ -1,0 +1,15 @@
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\bin\Debug\net6.0\laba01.exe
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\bin\Debug\net6.0\laba01.deps.json
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\bin\Debug\net6.0\laba01.runtimeconfig.json
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\bin\Debug\net6.0\laba01.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\bin\Debug\net6.0\laba01.pdb
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.csproj.AssemblyReference.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.AssemblyInfoInputs.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.AssemblyInfo.cs
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.csproj.CoreCompileInputs.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\refint\laba01.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.pdb
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\laba01.genruntimeconfig.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01\obj\Debug\net6.0\ref\laba01.dll

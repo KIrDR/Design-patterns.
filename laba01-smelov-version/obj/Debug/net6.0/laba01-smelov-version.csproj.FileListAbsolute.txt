@@ -1,0 +1,15 @@
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\bin\Debug\net6.0\laba01-smelov-version.exe
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\bin\Debug\net6.0\laba01-smelov-version.deps.json
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\bin\Debug\net6.0\laba01-smelov-version.runtimeconfig.json
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\bin\Debug\net6.0\laba01-smelov-version.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\bin\Debug\net6.0\laba01-smelov-version.pdb
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.csproj.AssemblyReference.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.GeneratedMSBuildEditorConfig.editorconfig
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.AssemblyInfoInputs.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.AssemblyInfo.cs
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.csproj.CoreCompileInputs.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\refint\laba01-smelov-version.dll
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.pdb
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\laba01-smelov-version.genruntimeconfig.cache
+G:\Программы малышей\2КУРС2СЕМЕСТР\ПП\laba01-smelov-version\obj\Debug\net6.0\ref\laba01-smelov-version.dll
